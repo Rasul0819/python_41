@@ -3,7 +3,8 @@
 # api = ''
 # bot = bot(api)
 # dp = Dispetcher(bot)
-
+#TAZA QATAR qostim
+#JANE bir qatar
 # @db.message_xandler(commands=['start'])
 # async def send_hi(sms:tipes.Message):
 #     await sms.answer(text='Salem',
